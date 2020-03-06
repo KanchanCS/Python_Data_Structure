@@ -34,3 +34,17 @@ j = j +5
 * For a float, this sequence breaks up into a mantissa and exponent
 
     * Like " scientific" notation 0.602 X 10^24
+
+# Operations on numbers 
+
+* Normal arithmetic operations :  __+, -, *, /__
+
+    * Note that **/** always produces a float
+    * 7/3.5 is 2.0, 7/2 is 3.5
+* Quotient and remainder: **//** and **%** 
+    
+    * 9 // 5 is 1, 9%5 is 4
+
+* Exponentiation : __*__
+
+    * 3**4 is 81
