@@ -48,3 +48,14 @@ j = j +5
 * Exponentiation : __*__
 
     * 3**4 is 81
+# Other Operations on Numbers 
+
+* log(), sqrt(), sin(), ....
+
+* Built in to Python, but not available by default
+
+* Must include __math__ "Library"
+
+    ```python
+       from math import *
+    ```
