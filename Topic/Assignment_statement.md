@@ -22,3 +22,15 @@ j = j +5
     * float - fractional numbers
 * 178, -3, 4283829 are values of type int 
 * 37.82, -0.01, 28.7998 are values of type float
+
+# int vs float
+
+* Why are these different types ?
+
+* Internally, a value is stored as a finite sequence of 0's and 1's (binary digits, or bits)
+
+* For an int, the sequence is read off as a binary number
+
+* For a float, this sequence breaks up into a mantissa and exponent
+
+    * Like " scientific" notation 0.602 X 10^24
