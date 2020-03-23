@@ -14,8 +14,3 @@ def insertionSort(seq):
             (seq[pos], seq[pos-1]) = (seq[pos-1], seq[pos])
             pos = pos - 1
         
-seq = list(range(5000,0,-1))
-
-insertionSort(seq)
-
-print(seq)

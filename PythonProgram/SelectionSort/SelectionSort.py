@@ -14,9 +14,3 @@ def selectionSort(l):
         
         (l[start], l[minpos]) = (l[minpos], l[start])
             
-l = list(range(1000,0,-1))
-
-selectionSort(l)
-
-
-print(l)
