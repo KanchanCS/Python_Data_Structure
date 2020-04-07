@@ -2,14 +2,14 @@
 
 ### Searching for a value 
     
-    * Unsorted array - linear Scan, O(n)
-    * Sorted array - binary Search, O(log(n))
+   * Unsorted array - linear Scan, O(n)
+   * Sorted array - binary Search, O(log(n))
 
 ### Other advantages of sorting
 
-    * Finding median value, midpoint of sorted array
-    * Checking for duplicates
-    * Building a frequency table of values
+   * Finding median value, midpoint of sorted array
+   * Checking for duplicates
+   * Building a frequency table of values
 
 # How to sort ?
 
