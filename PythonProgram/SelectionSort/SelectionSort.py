@@ -14,3 +14,9 @@ def selectionSort(l):
         
         (l[start], l[minpos]) = (l[minpos], l[start])
             
+
+l = [2,3,4,5,6,7,8,9]
+print(len(l))
+
+for start in range(len(l)):
+    print(start)
